@@ -21,13 +21,13 @@ Make sure you have the following software installed on your system:
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/fahadaleem/vite-vue-tailwind-boilerplate.git
 ````
 
 2. Change to the project directory:
 
 ```bash
-cd your-repo
+cd vite-vue-tailwind-boilerplate
 ```
 
 3. Install the project dependencies:
